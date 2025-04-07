@@ -1,0 +1,17 @@
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\bin\Debug\net8.0\u2FI94u9VCo0ITa.exe
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\bin\Debug\net8.0\u2FI94u9VCo0ITa.deps.json
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\bin\Debug\net8.0\u2FI94u9VCo0ITa.runtimeconfig.json
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\bin\Debug\net8.0\u2FI94u9VCo0ITa.dll
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\bin\Debug\net8.0\u2FI94u9VCo0ITa.pdb
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\u2FI94u9VCo0ITa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\u2FI94u9VCo0ITa.AssemblyInfoInputs.cache
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\u2FI94u9VCo0ITa.AssemblyInfo.cs
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\u2FI94u9VCo0ITa.csproj.CoreCompileInputs.cache
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\u2FI94u9VCo0ITa.dll
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\refint\u2FI94u9VCo0ITa.dll
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\u2FI94u9VCo0ITa.pdb
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\u2FI94u9VCo0ITa.genruntimeconfig.cache
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\ref\u2FI94u9VCo0ITa.dll
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\u2FI94u9VCo0ITa.csproj.AssemblyReference.cache
+C:\Users\erzhan\source\repos\u2FI94u9VCo0ITa\u2FI94u9VCo0ITa\obj\Debug\net8.0\u2FI94u9.9334FAD0.Up2Date
